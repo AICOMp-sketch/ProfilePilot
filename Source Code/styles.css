@@ -1,0 +1,6 @@
+/* style.css */
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #f3f4f6; /* Light gray background */
+}
+/* Any additional custom CSS styles not handled by Tailwind can go here */
